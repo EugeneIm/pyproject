@@ -30,6 +30,11 @@ while True:
 
 
 #LEARN HOW THIS WORKS PROPERLY
+
+#if user_action == computer_action: 
+    #print(f"both players selected {user_action}. It's a tie!")
+                #^^ The above is the syntax for a tie in the RPS
+                
 #IF AND ELIF IS THE SAME AS JS IN THAT PICTURE BORDER LAB
 #understand the "while True:" section 
 #user_action, possible_actions, and computer_action is pretty self explanatory
