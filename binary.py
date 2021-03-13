@@ -37,3 +37,8 @@ if result != -1:
     print("Element is present at index", str(result))
 else:
     print("Element is not present in array")
+
+
+#FIGURE OUT HOW THE BINARY WORKS AND UNDERSTAND HOW TO DO IT YOURSELF
+#GUESS, RPS, PASSWORD, AND ESTIMATE PI YOU HAVE A GOOD GRASP OF IT
+#IF YOU CAN UNDERSTAND THE BINARY SEARCH IT WILL BE CLEARER AND YOU CAN MAKE THESE YOURSELF
