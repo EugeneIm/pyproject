@@ -4,7 +4,7 @@ while True:   #WHILE TRUE MEANS THAT IT LOOPS FOREVER/INDEFINITELY BUT SINCE THE
     user_action = input("Enter a choice (rock, paper, scissors): ")
     possible_actions = ["rock", "paper", "scissors"]
     computer_action = random.choice(possible_actions)
-    print(f"\nYou chose {user_action}, computer chose {computer_action}.\n")
+    print("You chose {user_action}, computer chose {computer_action}.")
 
     if user_action == computer_action:
         print(f"Both players selected {user_action}. It's a tie!")
@@ -45,5 +45,4 @@ while True:   #WHILE TRUE MEANS THAT IT LOOPS FOREVER/INDEFINITELY BUT SINCE THE
 #IF AND ELIF IS THE SAME AS JS IN THAT PICTURE BORDER LAB
 #understand the "while True:" section 
 #user_action, possible_actions, and computer_action is pretty self explanatory
-        #But what does the "print(f"\nYou chose {user_action}, computer chose {computer_action}.\n")" mean? 
-            #more specifically the  (f"\nYou chose ...  \n")
+
