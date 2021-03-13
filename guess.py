@@ -1,7 +1,7 @@
 import random
 
 while True:
-    hidden = random.randrange(1, 201)
+    hidden = random.randrange(1, 50)
  
     guess = int(input("Please enter your guess: "))
  
