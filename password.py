@@ -37,11 +37,8 @@ temp_pass = rand_digit + rand_upper + rand_lower + rand_symbol
  
  
 # now that we are sure we have at least one character from each
-
 # set of characters, we fill the rest of
-
 # the password length by selecting randomly from the combined 
-
 # list of character above.
 
 for x in range(MAX_LEN - 4):
@@ -53,7 +50,7 @@ for x in range(MAX_LEN - 4):
    
     temp_pass_list = array.array('u', temp_pass)
     random.shuffle(temp_pass_list)
- 
+
 # traverse the temporary password array and append the chars
 # to form the password
 
