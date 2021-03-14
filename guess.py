@@ -16,7 +16,7 @@ while True:
     
     play_again = input("Try again? (y/n): ")
     if play_again.lower() != "y":
-        print("Thank you for playing")
+        print("Dumb Bitch")
         break
 
 #the same as RPS, there's the "play_again.lower() != "y":" 

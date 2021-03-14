@@ -26,7 +26,7 @@ while True:   #WHILE TRUE MEANS THAT IT LOOPS FOREVER/INDEFINITELY BUT SINCE THE
 
     play_again = input("Play again? (y/n): ")
     if play_again.lower() != "y":
-        print("you have conceded")
+        print("Weak mental EZ Clap")
         break
 
 
