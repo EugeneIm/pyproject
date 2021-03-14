@@ -4,7 +4,7 @@ while True:   #WHILE TRUE MEANS THAT IT LOOPS FOREVER/INDEFINITELY BUT SINCE THE
     user_action = input("Enter a choice (rock, paper, scissors): ")
     possible_actions = ["rock", "paper", "scissors"]
     computer_action = random.choice(possible_actions)
-    print("You chose {user_action}, computer chose {computer_action}.")
+    #print("You chose {user_action}, computer chose {computer_action}.")
 
     if user_action == computer_action:
         print(f"Both players selected {user_action}. It's a tie!")
