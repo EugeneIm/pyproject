@@ -29,8 +29,6 @@ while True:   #WHILE TRUE MEANS THAT IT LOOPS FOREVER/INDEFINITELY BUT SINCE THE
         print("Weak mental EZ Clap")
         break
 
-
-
 #LEARN HOW THIS WORKS PROPERLY
 
 #elif is just a contracted "else if" statement. 
