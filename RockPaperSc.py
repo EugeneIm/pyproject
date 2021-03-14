@@ -35,11 +35,9 @@ while True:   #WHILE TRUE MEANS THAT IT LOOPS FOREVER/INDEFINITELY BUT SINCE THE
 #I.e., the first section saying that if the values are equal, print "it's a tie"
 #And then the if/else statement under it, followed by another elif for the case of input being paper, scissors, etc. 
 
-
 #if user_action == computer_action: 
     #print(f"both players selected {user_action}. It's a tie!")
                 #^^ The above is the syntax for a tie in the RPS
-
 
 #IF AND ELIF IS THE SAME AS JS IN THAT PICTURE BORDER LAB
 #understand the "while True:" section 
