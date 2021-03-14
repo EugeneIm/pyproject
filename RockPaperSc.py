@@ -45,4 +45,3 @@ while True:   #WHILE TRUE MEANS THAT IT LOOPS FOREVER/INDEFINITELY BUT SINCE THE
 #IF AND ELIF IS THE SAME AS JS IN THAT PICTURE BORDER LAB
 #understand the "while True:" section 
 #user_action, possible_actions, and computer_action is pretty self explanatory
-

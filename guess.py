@@ -18,3 +18,7 @@ while True:
     if play_again.lower() != "y":
         print("Thank you for playing")
         break
+
+#the same as RPS, there's the "play_again.lower() != "y":" 
+#Just like RPS, there's the break if the input is not equal to "y" and it will print out "Thank you for playing"
+
