@@ -13,4 +13,3 @@ def estimate_pi(n):
 
 	return 4 * num_point_circle/num_point_total
 
-	

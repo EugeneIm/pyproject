@@ -20,4 +20,6 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
          .,~~;;;========;;;:~-.
              ..,--------,*/
 
-             
+
+/* figure out how the donut code works, but that comes at a later time because you don't need to know C yet. 
+/* just focus on learning python and the basic elements of it first. 
